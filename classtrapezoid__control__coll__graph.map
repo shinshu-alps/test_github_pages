@@ -1,0 +1,6 @@
+<map id="trapezoid_control" name="trapezoid_control">
+<area shape="rect" id="node1" title="台形制御クラス" alt="" coords="5,152,140,177"/>
+<area shape="rect" id="node2" href="$class_dob.html" title="外乱オブザーバー" alt="" coords="49,79,97,104"/>
+<area shape="rect" id="node3" href="$class_p_i_d.html" title="PID制御を行うクラス" alt="" coords="16,5,60,31"/>
+<area shape="rect" id="node4" href="$class_l_p_f.html" title="ローパスフィルタのクラス" alt="" coords="85,5,130,31"/>
+</map>

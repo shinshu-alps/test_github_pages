@@ -1,0 +1,5 @@
+<map id="PID" name="PID">
+<area shape="rect" id="node1" title="PID制御を行うクラス" alt="" coords="51,5,95,31"/>
+<area shape="rect" id="node2" href="$class_dob.html" title="外乱オブザーバー" alt="" coords="49,79,97,104"/>
+<area shape="rect" id="node3" href="$classtrapezoid__control.html" title="台形制御クラス" alt="" coords="5,152,140,177"/>
+</map>
